@@ -1,2 +1,2 @@
-# RKLB-Stock-Analysis-Ai-native-
+# RKLB-Stock-Analysis-AiNative
 RKLB Stock Analysis (Ai native)
